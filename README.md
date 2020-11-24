@@ -1,102 +1,49 @@
-# Project Title
-
-<!--
- One Paragraph of project description goes here
-  -->
-
-this project is under development
-
-## Getting Started
-
-<!-- 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system. 
--->
-
-### Prerequisites
-
-<!-- 
-What things you need to install the software and how to install them
-
-```
-Give examples
-``` 
--->
-
- ### Installing
-<!--
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
- -->
-## Running the tests
-<!-- 
-Explain how to run the automated tests for this system
- -->
-### Break down into end to end tests
-<!-- 
-Explain what these tests test and why
-
-```
-Give an example
-``` 
--->
-### And coding style tests
-<!-- 
-Explain what these tests test and why
-
-```
-Give an example
-```
--->
-## Deployment
-<!-- 
-Add additional notes about how to deploy this on a live system 
--->
-## Built With
-<!-- 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds 
--->
-## Contributing
-<!-- 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us. 
--->
-## Versioning
-<!-- 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
- -->
-## Authors
-<!-- 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
- -->
-## License
-<!-- 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
- -->
-## Acknowledgments
-<!-- 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
- -->
+<html><h1 align='center'> Hello World👋! I'm Leonardo 👱‍♂️ </h1>
 
 
 
-<!-- this template was created using https://gist.github.com/PurpleBooth/109311bb0361f32d87a2 -->
-""GIT_20201123223355_leodecm3""   
-"leodecm3"  
+<h3 align="center">🤘 About Me </h3>
+<p align="center"> <samp> 
+
+<br><img src="https://github.com/punitkmryh/punitkmryh/blob/master/Developer.gif" width="450px"><br><br>
+
+   I am a Mobile Developer who is very enthusiastic about learning new technologies and exploring them through projects that are useful for ordinary people or developer communities.
+   
+  </samp>
+</p><br>
+<h3 align="center"> 💻 Tech Stack </h3>
+<p align="center">
+  <br>
+  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>&nbsp;&nbsp;
+  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>&nbsp;&nbsp;
+  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>&nbsp;&nbsp;
+  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>&nbsp;&nbsp;
+  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>&nbsp;&nbsp;
+  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>&nbsp;&nbsp;
+  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>&nbsp;&nbsp;
+</p><br>
+
+<h3  align='center'>Find me around the web 🌎 <img src="https://visitor-badge.glitch.me/badge?page_id=github.com/ARJUPTA" /></h3><br>
+
+<p align='center'>
+  <a href="https://www.github.com/ARJUPTA/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/arjun.manas.1" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/arjupta/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:arjupta.90@gmail.com?subject=Olá%20Punit"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/arjupta" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<br><br>
+
+<img src="https://github.com/ARJUPTA/ARJUPTA/blob/master/resources/Android.gif" width="150" align="left" HSPACE="50"/><br><br><p align="center">
+  <em><b> I love connecting with different people, drop me Hi for chitchat 💬</b> :)</em>
+  </p>
+  
+<p align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=leodecm3&show_icons=true&count_private=true" alt="leodecm3's Github Stats">
+</p>
+
+<img src="https://github.com/ARJUPTA/ARJUPTA/blob/master/resources/Wave.svg" />
+</html>
+
+<!--  -->
