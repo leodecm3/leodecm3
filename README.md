@@ -17,7 +17,7 @@
 <h1 align="center">Languages, frameworks & Tools </h1>
 
 <h2 align="center">I frequently use: </h2>
-
+<br>
 <p align='center'>
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>&nbsp;&nbsp;
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>&nbsp;&nbsp;
@@ -28,9 +28,11 @@
   <code><img height="50" src="https://github.com/leodecm3/leodecm3/blob/master/resources/excel.webp"></code>&nbsp;&nbsp;
   <code><img height="50" src="https://github.com/leodecm3/leodecm3/blob/master/resources/vba.png"></code>&nbsp;&nbsp;
 </p>
+<br>
+<br>
 
 <h2 align="center">I use sometimes: </h2>
-
+<br>
 <p align='center'>
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png"></code>&nbsp;&nbsp;
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp;&nbsp;
@@ -39,20 +41,24 @@
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>&nbsp;&nbsp;
   <code><img height="50" src="https://github.com/leodecm3/leodecm3/blob/master/resources/Power-BI-Logo.png"></code>&nbsp;&nbsp;
 </p>
-
+<br>
+<br>
 <h2 align="center">I want to learn or look into: </h2>
-
+<br>
 <p align='center'>
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>&nbsp;&nbsp;
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unreal-engine/unreal-engine.png"></code>&nbsp;&nbsp;
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>&nbsp;&nbsp;
 </p>
+<br>
+<br>
 
+</p>
+<br>
 
-
-</p><br>
-
-<h3  align='center'>Find me around the web 🌎 <img src="https://visitor-badge.glitch.me/badge?page_id=github.com/leodecm3" /></h3><br>
+<p align='center'>
+<em align='center' ><b> I love connecting with different people, drop me Hi for chitchat 💬</b> :)</em>
+</p>
 
 <p align='center'>
   <a href="https://www.github.com/leodecm3/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'/></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -60,7 +66,7 @@
   <a href="mailto:leodecm3@gmail.com?subject=Hi"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/leomez" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-<em><b> I love connecting with different people, drop me Hi for chitchat 💬</b> :)</em>
+<h3  align='center'> <img src="https://visitor-badge.glitch.me/badge?page_id=github.com/leodecm3" /></h3><br>
 
 <br><br>
 
