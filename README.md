@@ -6,7 +6,7 @@
 <img src="https://github.com/leodecm3/leodecm3/blob/master/resources/developer-hom.gif" width="450px"><br><br>
 
 <samp>
-   I am a Mobile Developer who is very enthusiastic about learning new technologies and exploring them through projects that are useful for ordinary people or developer communities.
+   I am a Mobile/Web Developer who is very enthusiastic about learning new technologies and exploring them through projects that are useful for ordinary people or developer communities.
    
   </samp>
 </p><br>
@@ -39,6 +39,7 @@
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png"></code>&nbsp;&nbsp;
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp;&nbsp;
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>&nbsp;&nbsp;
+  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>&nbsp;&nbsp;
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>&nbsp;&nbsp;
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>&nbsp;&nbsp;
   <code><img height="50" src="https://github.com/leodecm3/leodecm3/blob/master/resources/Power-BI-Logo.png"></code>&nbsp;&nbsp;
