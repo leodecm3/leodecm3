@@ -15,7 +15,7 @@
   <br>
 
 <h1 align="center">Languages, frameworks & Tools </h1>
-
+<br>
 <h2 align="center">I frequently use: </h2>
 <br>
 <p align='center'>
