@@ -5,7 +5,7 @@
 <h3 align="center">🤘 About Me </h3>
 <p align="center"> <samp> 
 
-<br><img src="https://github.com/punitkmryh/punitkmryh/blob/master/Developer.gif" width="450px"><br><br>
+<br><img align="center" src="https://github.com/leodecm3/leodecm3/blob/master/resources/developer-hom.gif" width="450px"><br><br>
 
    I am a Mobile Developer who is very enthusiastic about learning new technologies and exploring them through projects that are useful for ordinary people or developer communities.
    
@@ -35,15 +35,15 @@
 
 <br><br>
 
-<img src="https://github.com/ARJUPTA/ARJUPTA/blob/master/resources/Android.gif" width="150" align="left" HSPACE="50"/><br><br><p align="center">
+<img src="https://github.com/leodecm3/leodecm3/blob/master/resources/giphy.gif" width="150" align="left" HSPACE="50"/><br><br><p align="center">
   <em><b> I love connecting with different people, drop me Hi for chitchat 💬</b> :)</em>
   </p>
-  
+
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=leodecm3&show_icons=true&count_private=true" alt="leodecm3's Github Stats">
 </p>
 
-<img src="https://github.com/ARJUPTA/ARJUPTA/blob/master/resources/Wave.svg" />
+<img src="https://github.com/leodecm3/leodecm3/blob/master/resources/Wave.svg" />
 </html>
 
 <!--  -->
