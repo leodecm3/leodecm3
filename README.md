@@ -1,12 +1,11 @@
 <html><h1 align='center'> Hello World👋! I'm Leonardo 👱‍♂️ </h1>
 
+<h3 align="center">About Me </h3>
+<p align="center">  
+<br>
+<img src="https://github.com/leodecm3/leodecm3/blob/master/resources/developer-hom.gif" width="450px"><br><br>
 
-
-<h3 align="center">🤘 About Me </h3>
-<p align="center"> <samp> 
-
-<br><img align="center" src="https://github.com/leodecm3/leodecm3/blob/master/resources/developer-hom.gif" width="450px"><br><br>
-
+<samp>
    I am a Mobile Developer who is very enthusiastic about learning new technologies and exploring them through projects that are useful for ordinary people or developer communities.
    
   </samp>
