@@ -60,16 +60,23 @@
   <a href="mailto:leodecm3@gmail.com?subject=Hi"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/leomez" target="_blank"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+<em><b> I love connecting with different people, drop me Hi for chitchat 💬</b> :)</em>
 
 <br><br>
 
 <img src="https://github.com/leodecm3/leodecm3/blob/master/resources/giphy.gif" width="150" align="left" HSPACE="50"/><br><br><p align="center">
-  <em><b> I love connecting with different people, drop me Hi for chitchat 💬</b> :)</em>
+  
   </p>
 
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=leodecm3&show_icons=true&count_private=true" alt="leodecm3's Github Stats">
-</p>
+
+
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=leodecm3&show_icons=true&count_private=true" alt="leodecm3's Github Stats">
+
+</details>
+
 
 <img src="https://github.com/leodecm3/leodecm3/blob/master/resources/Wave.svg" />
 </html>
