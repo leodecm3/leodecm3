@@ -20,15 +20,14 @@
 <br>
 <p align='center'>
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>&nbsp;&nbsp;
-  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>&nbsp;&nbsp;
-  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>&nbsp;&nbsp;
+  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>&nbsp;&nbsp;  
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>&nbsp;&nbsp;
-  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>&nbsp;&nbsp;
-  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>&nbsp;&nbsp;
-    <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>&nbsp;&nbsp;
+  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>&nbsp;&nbsp;
   <code><img height="50" src="https://github.com/leodecm3/leodecm3/blob/master/resources/excel.webp"></code>&nbsp;&nbsp;
   <code><img height="50" src="https://github.com/leodecm3/leodecm3/blob/master/resources/vba.png"></code>&nbsp;&nbsp;
-  
+  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png"></code>&nbsp;&nbsp;
+   <code><img height="50" src="https://github.com/leodecm3/leodecm3/blob/master/resources/Power-BI-Logo.png"></code>&nbsp;&nbsp;
+   
 </p>
 <br>
 <br>
@@ -36,13 +35,17 @@
 <h2 align="center">I use sometimes: </h2>
 <br>
 <p align='center'>
-  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png"></code>&nbsp;&nbsp;
+  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>&nbsp;&nbsp;
+  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>&nbsp;&nbsp;
+  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>&nbsp;&nbsp;
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp;&nbsp;
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>&nbsp;&nbsp;
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>&nbsp;&nbsp;
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>&nbsp;&nbsp;
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>&nbsp;&nbsp;
-  <code><img height="50" src="https://github.com/leodecm3/leodecm3/blob/master/resources/Power-BI-Logo.png"></code>&nbsp;&nbsp;
+   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unreal-engine/unreal-engine.png"></code>&nbsp;&nbsp;
+   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>&nbsp;&nbsp;
+  
 </p>
 <br>
 <br>
@@ -50,8 +53,7 @@
 <br>
 <p align='center'>
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>&nbsp;&nbsp;
-  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unreal-engine/unreal-engine.png"></code>&nbsp;&nbsp;
-  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>&nbsp;&nbsp;
+  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/objective-c/objective-c.png"></code>&nbsp;&nbsp;
 </p>
 <br>
 <br>
