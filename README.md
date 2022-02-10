@@ -6,7 +6,7 @@
 <img src="https://github.com/leodecm3/leodecm3/blob/master/resources/developer-hom.gif" width="450px"><br><br>
 
 <samp>
-   I am a Mobile/Web Developer who is very enthusiastic about learning new technologies and exploring them through projects that are useful for ordinary people or developer communities.
+   I am a Game Developer who is very enthusiastic about learning new technologies and exploring them through projects that are useful for ordinary people or developer communities.
    
   </samp>
 </p><br>
